@@ -1,0 +1,21 @@
+[
+{
+  "modid": "Tutorial",
+  "name": "Tutorial Mod",
+  "description": "This is were I teach how to mod",
+  "version": "Pre_Alpha",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "CleanPawnege"
+
+  ],
+  "credits": "I love my SUBS!",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
